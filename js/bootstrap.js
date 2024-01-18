@@ -102,6 +102,7 @@
       }
     };
   }
+  
 
   function transitionEndEmulator(duration) {
     var _this = this;
